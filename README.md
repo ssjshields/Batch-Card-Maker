@@ -22,6 +22,7 @@ Run the `Batch Card Maker.bat` file
 ## How it works:
 > [!NOTE]
 Preferred card dimensions: **1400 pixels tall and 1000 pixels wide** but they can be any size you want.
+
 The program reads:
 * At least one .png or .jpg image file from the Cards folder, that will be the card body.
 * At least one .png or .jpg image file from the CardPcitrues folder, that will be inside the card body.
