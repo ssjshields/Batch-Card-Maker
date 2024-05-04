@@ -2,13 +2,14 @@
 Make game cards in a batch from CSV! Perfect for rapid game prototyping for print or for Tabletop Simulator.
 
 ## Demonstration
-[!View the Demo](https://youtu.be/8Xv3JhwMKsI)
+[View the Demo](https://youtu.be/8Xv3JhwMKsI)
 
 ## Requirements:
 [Install Python 3.12.3](https://www.python.org/downloads/release/python-3123/) 
 
 ## Usage:
-Run the `SETUP.bat` file
+> [!NOTE]  
+For first time setup, Run the `SETUP.bat` file
 
 Place assets in their respective folders
 
