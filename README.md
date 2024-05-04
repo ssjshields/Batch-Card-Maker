@@ -68,6 +68,6 @@ It won't save ALL configurations, only the primary visual ones, and will still a
 
 &nbsp;
 ## Disclaimer:
-p-dimi made this program for their own game, and has decided to release it for other people to use.
+p-dimi originally made this program for their own game, and has decided to release it for other people to use.
 
-The program comes as is.
+The program comes as is. Modified for use by ssjshields.
