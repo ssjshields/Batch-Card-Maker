@@ -72,7 +72,7 @@ Once you're finished setting up your card look, you can press and hold "C" to ba
 You will need to input the name of the file in the command line that the program is running in, and then press Enter.
 It will then save the configurations, and will ask you whether to load them the next time you run the program.
 
-It won't save ALL configurations, only the primary visual ones, and will still ask you about other things like the font to use.
+It won't save ALL configurations, only the primary visual ones, and will ask you about other things like the font to use.
 
 > [!CAUTION]
 While the main program is open do not use applications that have overlays such as: Windows Snipping Tool, GeForce, AMD Software, etc. These applications will cause the program to crash.
