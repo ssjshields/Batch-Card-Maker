@@ -186,7 +186,7 @@ row_idc=8
 dmg_idc=9
 
 print('\n\n~~~Stat Columns:~~~\n\n')
-stats_default = str(input("\nUse default stat settings?\n(HP, DEF, SPD, Reach, ROW, DMG)\nType Y or N: "))
+stats_default = str(input("\nUse default stat settings?\n(HP, DEF, SPD, Reach, ROW, DMG)\n(Y/N) "))
 if stats_default == 'y' or stats_default == 'Y':
     stats_default = True
 else:
