@@ -67,5 +67,5 @@ It will then save the configurations, and will ask you whether to load them the 
 It won't save ALL configurations, only the primary visual ones, and will still ask you about other things like the font to use.
 
 &nbsp;
-## Disclaimer
+## Disclaimer:
 Original code by p-dimi
