@@ -3,8 +3,6 @@ Make game cards in a batch from CSV!
 
 [View the Demo](https://youtu.be/8Xv3JhwMKsI)
 
-[View the Wiki](https://github.com/ssjshields/Batch-Card-Maker/wiki)
-
 &nbsp;
 ## Requirements:
 Windows 10/11
@@ -13,6 +11,8 @@ Windows 10/11
 
 &nbsp;
 ## Usage:
+[View the Wiki](https://github.com/ssjshields/Batch-Card-Maker/wiki)
+
 > [!IMPORTANT]
 For first time setup, Run the `SETUP.bat` file
 
