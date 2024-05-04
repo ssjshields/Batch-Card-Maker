@@ -1,7 +1,9 @@
-# Batch-Card-Maker
+# Batch Card Maker
 Make game cards in a batch from CSV! Perfect for rapid game prototyping for print or for Tabletop Simulator.
 
 [View the Demo](https://youtu.be/8Xv3JhwMKsI)
+
+[View the Original Repository](https://github.com/p-dimi/Batch-Card-Maker)
 
 &nbsp;
 ## Requirements:
