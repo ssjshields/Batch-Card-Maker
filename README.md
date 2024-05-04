@@ -6,6 +6,7 @@ Make game cards in a batch from CSV! Perfect for rapid game prototyping for prin
 
 ## Requirements:
 Windows 11
+
 [Install Python 3.12.3](https://www.python.org/downloads/release/python-3123/) 
 
 ## Usage:
