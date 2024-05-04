@@ -10,14 +10,15 @@ echo Checking Requirements
 pip install -r requirements.txt
 echo.
 echo Creating Directories
-py makedirs.py /dev/null
+py makedirs.py
 echo.
-set /p checkpip=Launch Batch Card Maker? (Y/N)
-if /i "%checkpip%" neq "y" goto end
+echo Place assets in their respective folders then run Batch Card Maker.
+::set /p checkpip=Launch Batch Card Maker? (Y/N)
+::if /i "%checkpip%" neq "y" goto end
 
-:start
-cls
-call "Batch Card Maker.bat"
+::start
+::cls
+::call "Batch Card Maker.bat"
 
 :end
 echo.
