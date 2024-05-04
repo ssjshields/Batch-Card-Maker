@@ -46,11 +46,19 @@ Refer to the spreadsheet example image above.
 
 > [!CAUTION]
 The pictures which will be inside the cards have to be smaller than the cards. That is - they need to be contained inside the card. So if the picture is wider or taller than the card, the program will not be able to use it properly and will likely crash.
-Just make sure the pictures are smaller than the cards.
 
 &nbsp;
 ## Stats inside cards:
-This program by default has some built in stats for cards in it, from my own project that I made it for. However, it accepts custom stats as well. You will be prompted in the command line when you run the program, it will ask you all the necessary questions and instruct you how to answer.
+Default available status types:
+- HP
+- DEF
+- DMG
+- SPD
+- ROW
+- Reach
+
+> [!NOTE]
+Accepts custom input as well.
 
 &nbsp;
 ## Configurations:
@@ -65,6 +73,9 @@ You will need to input the name of the file in the command line that the program
 It will then save the configurations, and will ask you whether to load them the next time you run the program.
 
 It won't save ALL configurations, only the primary visual ones, and will still ask you about other things like the font to use.
+
+> [!CAUTION]
+While the main program is open do not use applications that have overlays such as: Windows Snipping Tool, GeForce, AMD Software, etc. These applications will cause the program to crash.
 
 &nbsp;
 ## Disclaimer:
