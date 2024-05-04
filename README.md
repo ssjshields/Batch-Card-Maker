@@ -65,3 +65,7 @@ You will need to input the name of the file in the command line that the program
 It will then save the configurations, and will ask you whether to load them the next time you run the program.
 
 It won't save ALL configurations, only the primary visual ones, and will still ask you about other things like the font to use.
+
+&nbsp;
+## Disclaimer
+Originally written by p-dimi
