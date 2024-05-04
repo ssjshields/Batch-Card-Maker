@@ -4,13 +4,18 @@ Make game cards in a batch from CSV! Perfect for rapid game prototyping for prin
 ## Demonstration
 [!View the Demo](https://youtu.be/8Xv3JhwMKsI)
 
-## How to use:
-Install Python 3.12.3: https://www.python.org/downloads/release/python-3123/
+## Requirements:
+[Install Python 3.12.3](https://www.python.org/downloads/release/python-3123/) 
 
-Run SETUP.bat
+## Usage:
+Run the `SETUP.bat` file
 
-### How it works:
-* The program reads at least one .ttf font file from inside the Fonts
+Place assets in their respective folders
+
+Run the `Batch Card Maker.bat` file
+
+## How it works:
+* The program reads at least one .ttf font file from inside the Fonts folder
 * The program reads a .png or .jpg image file from inside the Cards folder, that it will use as your card body.
 * **Preferred card dimensions: 1400 pixels tall and 1000 pixels wide** but it can be any size you want it.
 * The program reads a csv file you have in order to batch create all the cards in the csv file.
@@ -32,9 +37,7 @@ Just make sure the pictures are smaller than the cards.
 ### Stats inside cards:
 This program by default has some built in stats for cards in it, from my own project that I made it for. However, it accepts custom stats as well. You will be prompted in the command line when you run the program, it will ask you all the necessary questions and instruct you how to answer.
 
-## Running Card Maker
-To run Card Maker, simply run the `Batch Card Maker.bat` file.
-It will start a command line session like this one:
+## Using the Card Maker
 ![Spreadsheet Example](command_prompt.png)
 
 #### Example:
