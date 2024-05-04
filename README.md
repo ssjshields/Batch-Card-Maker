@@ -68,4 +68,4 @@ It won't save ALL configurations, only the primary visual ones, and will still a
 
 &nbsp;
 ## Disclaimer
-Originally written by p-dimi
+Original code by p-dimi
