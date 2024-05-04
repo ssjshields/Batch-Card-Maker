@@ -5,22 +5,12 @@ Make game cards in a batch from CSV! Perfect for rapid game prototyping for prin
 [!View the Demo](https://youtu.be/8Xv3JhwMKsI)
 
 ## How to use:
-You need to have Python 3.0 or higher and pip installed on your computer for this first.
-Usually you will automatically install pip when you install Python.
+Install Python 3.12.3: https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
-Then you need to install the program's dependencies - you do this by running the INSTALL.bat file.
-It will take a little time but once it's done you will be notified on the command prompt.
-
-Next - run MAKEDIRS.bat to create the directories used by the program.
-If it will not succeed in creating the folders - make them manually yourself.
-Simply create the following new folders: **Cards, Csvs, CardPictures, Configs, Fonts, FinishedCards**
-These are case sensitive.
-
-Now you can batch make your cards!
-
-## The program needs at least one .ttf font file inside its Fonts folder, at least one .csv file in its Csvs folder, and at least one .jpg or .png file in its Cards folder.
+Run SETUP.bat
 
 ### How it works:
+* The program reads at least one .ttf font file from inside the Fonts
 * The program reads a .png or .jpg image file from inside the Cards folder, that it will use as your card body.
 * **Preferred card dimensions: 1400 pixels tall and 1000 pixels wide** but it can be any size you want it.
 * The program reads a csv file you have in order to batch create all the cards in the csv file.
@@ -43,17 +33,13 @@ Just make sure the pictures are smaller than the cards.
 This program by default has some built in stats for cards in it, from my own project that I made it for. However, it accepts custom stats as well. You will be prompted in the command line when you run the program, it will ask you all the necessary questions and instruct you how to answer.
 
 ## Running Card Maker
-To run Card Maker, simply run the RUN.bat file.
+To run Card Maker, simply run the `Batch Card Maker.bat` file.
 It will start a command line session like this one:
 ![Spreadsheet Example](command_prompt.png)
 
-And will walk you through the entire process.
-You need to pay attention to what is written in the command prompt and what it asks you to input, but the process is very simple.
 #### Example:
 Command prompt: "You have the following font files available: (0): Arial.ttf, (1): ComicSans.ttf. Which font do you want to use?"
 You: Typing in the number "0" and pressing Enter
-
-That's how it goes.
 
 ## Configurations:
 Once you have gone through the command prompt questions, you will get to the main meat of the program - the visual card configuration.
@@ -69,10 +55,6 @@ It will then save the configurations, and will ask you whether to load them the 
 It won't save ALL configurations, only the primary visual ones, and will still ask you about other things like the font to use.
 
 # Disclaimer:
-I made this program for my own game, and have decided to release it for other people to use.
-Made a few tweaks and added quality of life features for other people to use, but I will not be working on this program further. It does everything I want it to :)
-Feel free to use the program as a basis for your own program or to expand on it!
-
-If you make a new program using this as a basis, credit me.
+p-dimi made this program for their own game, and have decided to release it for other people to use.
 
 The program comes as is.
