@@ -22,10 +22,11 @@ Run the `Batch Card Maker.bat` file
 ## How it works:
 > [!NOTE]
 Preferred card dimensions: **1400 pixels tall and 1000 pixels wide** but they can be any size you want.
-* The program reads at least one .png or .jpg image file from the Cards folder, that will be the card body.
-* The program reads at least one .png or .jpg image file from the CardPcitrues folder, that will be inside the card body.
-* The program reads at least one .ttf font file from inside the Fonts folder.
-* The program reads a csv file you have in order to batch create all the cards.
+The program reads:
+* At least one .png or .jpg image file from the Cards folder, that will be the card body.
+* At least one .png or .jpg image file from the CardPcitrues folder, that will be inside the card body.
+* At least one .ttf font file from inside the Fonts folder.
+* A csv file in order to batch create all the cards.
 
 > [!CAUTION]
 The csv file should have a specific format. The first column is dedicated to the card names, the second and third columns are "Card type" columns, the fourth column is the card's text / description - everything else that's written in side it.
