@@ -29,10 +29,10 @@ The program reads:
 * At least one .png or .jpg image file from the Cards folder, that will be the card body.
 * At least one .png or .jpg image file from the CardPcitrues folder, that will be inside the card body.
 * At least one .ttf font file from inside the Fonts folder.
-* A csv file in order to batch create all the cards.
+* A .csv file in order to batch create all the cards.
 
 > [!CAUTION]
-The csv file should have a specific format. The first column is dedicated to the card names, the second and third columns are "Card type" columns, the fourth column is the card's text / description - everything else that's written in side it.
+The CSV file should have a specific format. The first column is dedicated to the card names, the second and third columns are "Card type" columns, the fourth column is the card's text / description - everything else that's written in side it.
 The additional columns can be used to store additional info - such as Stats, if your card has any (such as HP, MP, etc), and the picture to insert into the card (if you have any pictures inside the CardPictures folder).
 If you don't want to use any card types - simply put minus signs (-) inside the second and third column fields on every row.
 
