@@ -19,7 +19,6 @@ if /i "%checkpip%" neq "y" goto end
 cls
 call "Batch Card Maker.bat"
 
-
 :end
 echo.
 echo Press any key to close this window
