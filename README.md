@@ -22,7 +22,8 @@ Run the `Batch Card Maker.bat` file
 ## How it works:
 > [!NOTE]
 Preferred card dimensions: **1400 pixels tall and 1000 pixels wide** but they can be any size you want.
-* The program reads at least one .png or .jpg image file from inside the Cards folder, that it will use as your card body.
+* The program reads at least one .png or .jpg image file from the Cards folder, that will be the card body.
+* The program reads at least one .png or .jpg image file from the CardPcitrues folder, that will be inside the card body.
 * The program reads at least one .ttf font file from inside the Fonts folder.
 * The program reads a csv file you have in order to batch create all the cards.
 
@@ -39,7 +40,7 @@ An example of how a cards spreadsheet should look:
 If your cards have pictures in them (for example, if it's a creature card and you want to put a picture of an Orc inside it), that picture must be placed inside the CardPictures folder, and the full name of the picture (for example: org.jpg) needs to be written in the csv in the row of the relevant card.
 Refer to the spreadsheet example image above.
 
-> [!NOTE]
+> [!CAUTION]
 The pictures which will be inside the cards have to be smaller than the cards. That is - they need to be contained inside the card. So if the picture is wider or taller than the card, the program will not be able to use it properly and will likely crash.
 Just make sure the pictures are smaller than the cards.
 
