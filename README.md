@@ -11,10 +11,10 @@ Windows 10/11
 
 &nbsp;
 ## Usage:
-[View the Wiki](https://github.com/ssjshields/Batch-Card-Maker/wiki)
-
 > [!IMPORTANT]
 For first time setup, Run the `SETUP.bat` file
+
+[View the Wiki](https://github.com/ssjshields/Batch-Card-Maker/wiki)
 
 Place assets in their respective folders
 
